@@ -1,0 +1,4 @@
+profile.png: https://www.flaticon.com/free-icon/profile_1250999
+letter.png: https://www.flaticon.com/free-icon/letter_1250973
+lock.png: https://www.flaticon.com/free-icon/lock_1239334
+home.png: https://www.flaticon.com/free-icon/home-page_2144

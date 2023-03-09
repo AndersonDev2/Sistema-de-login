@@ -1,0 +1,27 @@
+.EsqueceuSenhaDiv .ParaHomepage {
+  margin-left: 10vw;
+}
+.EsqueceuSenhaDiv form {
+  position: absolute;
+  margin-left: 35vw;
+  margin-top: 7vw;
+}
+.EsqueceuSenhaDiv form h1 {
+  margin-left: 3vw;
+  font-size: var(--h1FontSize);
+  font-weight: bold;
+  color: var(--green-color);
+}
+
+.EsqueceuSenhaDiv form #Senha {
+  margin-top: 6vw;
+}
+
+.EsqueceuSenhaDiv form #ConfirmarSenha {
+  margin-top: 12vw;
+}
+
+.EsqueceuSenhaDiv form #AtualizarSenha {
+  margin-top: 18vw;
+  margin-left: 5.5vw;
+}

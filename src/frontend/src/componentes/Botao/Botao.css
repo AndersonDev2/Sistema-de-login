@@ -1,0 +1,10 @@
+.BotaoClass {
+  position: absolute;
+  font-size: 2vw;
+  font-weight: bold;
+  background-color: var(--green-color);
+  border: none;
+}
+.BotaoClass:hover {
+  background-color: var(--greenHover-color);
+}

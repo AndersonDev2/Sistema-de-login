@@ -1,0 +1,11 @@
+:root {
+  --green-color: #a0c334;
+  --greenHover-color: #91b61e;
+  --gray-color: #5d5d5d;
+  --h1FontSize: 4vw;
+  --fontSize: 2.5vw;
+}
+
+body {
+  background-color: var(--gray-color) !important;
+}

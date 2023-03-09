@@ -1,0 +1,36 @@
+.InputClass {
+  position: absolute;
+  width: 30vw;
+  background-color: white;
+  border: 0.4vw solid var(--green-color);
+}
+
+.InputClass img {
+  position: absolute;
+  margin-left: 0.7vw;
+  margin-top: 0.2vw;
+  width: 3.3vw;
+}
+
+.InputClass span {
+  position: absolute;
+  margin-left: 5vw;
+  background-color: var(--green-color);
+  width: 0.4vw;
+  height: 4.2vw;
+}
+
+.InputClass input {
+  width: 23.5vw;
+  background: none;
+  border: none;
+  outline: none;
+  font-size: var(--fontSize);
+  font-weight: bold;
+  margin-left: 5.5vw;
+  color: var(--green-color);
+}
+
+.InputClass input::placeholder {
+  color: var(--green-color);
+}

@@ -1,0 +1,42 @@
+.CriarContaDiv .ParaHomepage {
+  margin-left: 10vw;
+}
+
+.CriarContaDiv form {
+  position: absolute;
+  margin-top: 3vw;
+  margin-left: 33vw;
+}
+
+.CriarContaDiv form h1 {
+  margin-left: 4vw;
+  font-size: var(--h1FontSize);
+  font-weight: bold;
+  color: var(--green-color);
+}
+
+.CriarContaDiv form #Email {
+  margin-top: 6vw;
+}
+
+.CriarContaDiv form #Senha {
+  margin-top: 12vw;
+}
+
+.CriarContaDiv form #ConfirmarSenha {
+  margin-top: 18vw;
+}
+
+.CriarContaDiv form #CriarConta {
+  margin-top: 27vw;
+  margin-left: 8vw;
+}
+.CriarContaDiv .ErroSenha {
+  position: absolute;
+  margin-top: 23vw;
+  margin-left: 2vw;
+  color: var(--green-color);
+  font-size: 2.2vw;
+  font-weight: bold;
+  width: 30vw;
+}

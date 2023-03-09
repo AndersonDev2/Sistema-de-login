@@ -1,0 +1,11 @@
+.MinhaContaDiv h1 {
+  margin-top: 15vw;
+  margin-left: 25vw;
+  font-size: var(--h1FontSize);
+  font-weight: bold;
+  color: var(--green-color);
+}
+
+.MinhaContaDiv #LogoutBotao {
+  margin-left: 35vw;
+}

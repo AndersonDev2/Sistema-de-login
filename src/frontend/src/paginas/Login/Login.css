@@ -1,0 +1,31 @@
+.LoginDiv form {
+  margin-left: 34vw;
+  margin-top: 5vw;
+}
+.LoginDiv form h1 {
+  margin-left: 8vw;
+  font-size: var(--h1FontSize);
+  font-weight: bold;
+  color: var(--green-color);
+}
+
+.LoginDiv form #Senha {
+  margin-top: 6vw;
+}
+
+.LoginDiv form #EntrarBotao {
+  margin-top: 12vw;
+}
+.LoginDiv form #CriarContaBotao {
+  margin-top: 12vw;
+  margin-left: 19vw;
+}
+
+.LoginDiv form .EsqueceuSenha {
+  position: absolute;
+  margin-top: 15vw;
+  font-size: 1.5vw;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
